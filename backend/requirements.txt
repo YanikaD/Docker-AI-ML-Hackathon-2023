@@ -1,0 +1,11 @@
+fastapi
+Pillow
+python-multipart
+torch
+torchvision
+transformers
+opencv-python
+uvicorn
+pandas
+albumentations
+segmentation_models_pytorch

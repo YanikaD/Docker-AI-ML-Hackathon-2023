@@ -1,0 +1,13 @@
+version: '1' 
+services: 
+    react-app: 
+      image: parindapannoon/hackathon-frontend:latest
+      ports: 
+        - '3000:3000' 
+      depends_on: 
+        - fastapi-app 
+
+    fastapi-app: 
+      image: mintyani/hackathon-server:latest 
+      ports: 
+        - '8000:8000'
