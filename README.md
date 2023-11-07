@@ -211,3 +211,29 @@ From this document, you can try to post the image to see the segment result, whi
 1.  Lack of computer storage, sometimes the docker desktop crashes because the storage is full.
 2.  The model takes a lot of time to training. so, the colab always crashed.
 3.  The model takes some time to predict. especially, the first time we have pull the image from docker hub.
+
+
+# Reference
+[Amgad M, Elfandy H, ..., Gutman DA, Cooper LAD. Structured crowdsourcing  enables convolutional segmentation of histology images. Bioinformatics. 2019. doi: 10.1093/bioinformatics/btz083](https://academic.oup.com/bioinformatics/article/35/18/3461/5307750)
+
+https://towardsdatascience.com/the-annotated-resnet-50-a6c536034758
+
+https://medium.com/mlearning-ai/an-overview-of-vgg16-and-nin-models-96e4bf398484
+
+https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+
+https://segmentation-models-pytorch.readthedocs.io/en/latest/quickstart.html
+
+https://www.docker.com/
+
+https://hub.docker.com/
+
+
+
+
+
+
+
+
+
+
